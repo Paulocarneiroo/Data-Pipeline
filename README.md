@@ -44,5 +44,3 @@ Contribuições são bem-vindas! Para contribuir:
 5. Abra um Pull Request.
 
 ---
-
-Caso deseje adicionar informações específicas sobre o funcionamento do pipeline, como detalhes sobre o processamento dos dados ou exemplos de entrada e saída, sinta-se à vontade para incluir essas informações na seção "Como Funciona" ou "Exemplos".
